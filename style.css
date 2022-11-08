@@ -1,0 +1,17 @@
+@font-face {
+    font-family: heading;
+    src: url(font/HARNGTON.TTF);
+}
+
+h1{
+    color: darkorange;
+    font-style:heading ;
+    font-weight: bold;
+    text-align: center;
+
+}
+p{
+    text-align: justify;
+    color: blueviolet;
+
+}
